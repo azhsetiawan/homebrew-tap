@@ -1,8 +1,8 @@
 class Ledzeplin < Formula
   desc "Zeplin multi account switcher"
   homepage "https://github.com/azhsetiawan/ledzeplin"
-  url "https://github.com/azhsetiawan/ledzeplin/releases/download/v0.1.1/ledzeplin.tar.gz"
-  sha256 "b62854b60380a777e86c1b29a5f02009cb9fb1c0c054a851b3215aa094dfb8b9"
+  url "https://github.com/azhsetiawan/ledzeplin/releases/download/v0.1.2/ledzeplin.tar.gz"
+  sha256 "c970319be33de5c59c130224e601a67032e77eca6328f279aeddbbacdf8e1b39"
   license "MIT"
 
   bottle :unneeded
