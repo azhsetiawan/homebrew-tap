@@ -9,7 +9,7 @@ class Ledzeplin < Formula
 
   def install
     bin.install "ledzeplin"
-    bin.install "blackdog.scpt"
+    libexec.install "blackdog.scpt"
     bash_completion.install "completion/ledzeplin.bash" => "ledzeplin"
     zsh_completion.install  "completion/ledzeplin.zsh"  => "_ledzeplin"
   end
